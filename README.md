@@ -23,7 +23,7 @@ It allows you to experiment Smart Object Stack Modes more quickly than using the
 
 ### Quick explanation in 4 steps of the installation process:
 1. **Download** the **Script** (.jsx file) you want (green button)
-2. **Copy the downloaded JSX file** in:
+2. **Copy the downloaded JSX file** in *(ATN file on the Presets > Actions folder)*:
 	* **Win:** **C:** **Program Files**: **Adobe Photoshop CC** [YourVersion]: **Presets**: **Scripts**: [place here or here in a new folder named as you wish]
 	* **Mac:** [YourDiskName] > **Applications** > **Adobe Photoshop CC** [YourVersion] > **Presets** > **Scripts** > [place here or here in a new folder named as you wish]
 3. **Restart Photoshop**
