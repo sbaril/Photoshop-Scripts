@@ -1,5 +1,5 @@
 # Photoshop-Scripts
-## Diverse Scripts I created for  Photoshop 
+## Diverse Scripts and Actions, I created for  Photoshop 
 
 
 
@@ -45,6 +45,13 @@ It allows you to experiment Smart Object Stack Modes more quickly than using the
 	* Creating a Layer below the selected one with a Dialog box to rename it.
 * **NewLayerBelowNoName.jsx** 
 	* Creating a Layer below the selected one without renaming it. 
+
+### List of the Actions 
+
+* **Dimension-v01.atn** 
+	* Starting point Action to Extract in Photoshop the Transparent part of an Object (glass…) rendered in Dimension on White Background. With different Layers/Masks available to finetune the result regarding your image.
+* **Photo-v01.atn** 
+	* Simple Frequency Separation Actions.
 
 --	
 
