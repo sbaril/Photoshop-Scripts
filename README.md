@@ -37,10 +37,14 @@ It allows you to experiment Smart Object Stack Modes more quickly than using the
 
 * **Colorisation_SplitProof.jsx** 
 	* Diplay your file on different Windows with Softproofing.
+* **ExtractLinesDynamic.jsx**
+	* Non-destructive: Extract Grayscale Lines from the Background.
 * **ExtractDrawingBg.jsx** 
 	* Extract Grayscale Lines from the Background.
 * **ExtractDrawingBgColor.jsx** 
 	* Extract Grayscale Lines from the Background and creating an Empty Layer for the Color below the Lines layer.
+* **ExtractColorFromBG.jsx**
+	* Experimental Script to "Closely" Extract Content from a White Background.
 * **NewLayerBelowName.jsx** 
 	* Creating a Layer below the selected one with a Dialog box to rename it.
 * **NewLayerBelowNoName.jsx** 
