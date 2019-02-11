@@ -38,7 +38,9 @@ It allows you to experiment Smart Object Stack Modes more quickly than using the
 * **Colorisation_SplitProof.jsx** 
 	* Diplay your file on different Windows with Softproofing.
 * **ExtractLinesDynamic.jsx**
-	* Non-destructive: Extract Grayscale Lines from the Background.
+	* Non-destructive: Extract Grayscale Lines from the Background with Lines inside a Smart Object.
+* **ExtractLinesDynamicSimple.jsx**
+	* Non-destructive: Extract Grayscale Lines from the Background with Lines inside a Folder in the main document.
 * **ExtractDrawingBg.jsx** 
 	* Extract Grayscale Lines from the Background.
 * **ExtractDrawingBgColor.jsx** 
