@@ -47,6 +47,10 @@ It allows you to experiment Smart Object Stack Modes more quickly than using the
 	* Extract Grayscale Lines from the Background and creating an Empty Layer for the Color below the Lines layer.
 * **ExtractColorFromBG.jsx**
 	* Experimental Script to "Closely" Extract Content from a White Background.
+* **NewLayer_DefaultCustomName.jsx**
+	* Simple Script allowing to create a New Layer with your Custom Name to avoid "Layer 1", "Layer 2" numbering.
+	* The JPG **NewLayer_DefaultCustomName-Customization.jpg** explain how to customize this Script.
+	* Then in the *Edit > Keyboard shortcuts… > Files > Scripts* section find the script name and assign it the *Cmd/Ctrl+Shift+Option/Alt+N* (or on Cmd/Ctrl+Shift+N) shortcut.
 * **NewLayerBelowName.jsx** 
 	* Creating a Layer below the selected one with a Dialog box to rename it.
 * **NewLayerBelowNoName.jsx** 
