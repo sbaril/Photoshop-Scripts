@@ -9,9 +9,9 @@ It allows you to experiment Smart Object Stack Modes more quickly than using the
 
 
 **Tutorials** on **StackMix CC** and **Infos** on the creator: 
-* https://vimeo.com/128776756 [EN]
-* https://vimeo.com/128776466 [FR]
-* http://sbaril.me/
+* https://www.youtube.com/watch?v=ttOEQzNQzXk&t=10s [EN]
+* https://www.youtube.com/watch?v=fYjJR9v_ZDk [FR]
+* https://sbaril.myportfolio.com/
 
 --
 
@@ -53,8 +53,11 @@ It allows you to experiment Smart Object Stack Modes more quickly than using the
 	* Then in the *Edit > Keyboard shortcuts… > Files > Scripts* section find the script name and assign it the *Cmd/Ctrl+Shift+Option/Alt+N* (or on Cmd/Ctrl+Shift+N) shortcut.
 * **NewLayerBelowName.jsx** 
 	* Creating a Layer below the selected one with a Dialog box to rename it.
-* **NewLayerBelowNoName.jsx** 
-	* Creating a Layer below the selected one without renaming it. 
+* **ExtractObjectAndCleanBG.jsx** 
+	* Select first an object on a flat image (with the Object Tool for example), then use this script to auto copy it on its own layer then auto remove it from the background. 
+* **ExtractObjectAndCleanBGCAFspace.jsx** 
+	* Select first an object on a flat image (with the Object Tool for example), then use this script to auto copy it on its own layer then auto remove it from the background, with more control using the Content-aware fill workspace.
+
 
 ### List of the Actions 
 
@@ -62,6 +65,9 @@ It allows you to experiment Smart Object Stack Modes more quickly than using the
 	* Starting point Action to Extract in Photoshop the Transparent part of an Object (glass…) rendered in Dimension on White Background. With different Layers/Masks available to finetune the result regarding your image.
 * **Photo-v01.atn** 
 	* Simple Frequency Separation Actions.
+* **Quick-Object-Extraction.atn** 
+	* Set of Photoshop Actions used to create "ExtractObjectAndCleanBG.jsx" and "ExtractObjectAndCleanBGCAFspace.jsx", so that you can customize them if needed. 
+
 
 --	
 
