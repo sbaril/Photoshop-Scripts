@@ -67,6 +67,10 @@ It allows you to experiment Smart Object Stack Modes more quickly than using the
 	* Simple Frequency Separation Actions.
 * **Quick-Object-Extraction.atn** 
 	* Set of Photoshop Actions used to create "ExtractObjectAndCleanBG.jsx" and "ExtractObjectAndCleanBGCAFspace.jsx", so that you can customize them if needed. 
+* **Firefly-Actions.atn** 
+	* "Generative-Fill-Direct" by assigning to it an Action keyboard shortcut, you'll be able to call the Generative Fill feature without the Prompt dialog box.
+	* "Solid-Mask" to quickly use the Quick Mask mode to generate patial Generative FIll (try it with "oil painting with small brush strokes" or "Watercolor painting").
+	* "GenFill-Left-to-Right-x7" to do up to 7 Generative Fills from the top left corner. Workaround for a "Generative Expand" at the document quality with Firefly Image 1 model (limited to 1024x1024px generation).
 
 
 --	
