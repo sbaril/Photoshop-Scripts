@@ -73,6 +73,10 @@ It allows you to experiment Smart Object Stack Modes more quickly than using the
 	* "GenFill-Auto-Top-Left-to-Right-x10" to do up to 10 Generative Fills from the top left corner. Workaround for a "Generative Expand" at the document quality with Firefly Image 1 model (limited to 1024x1024px generation).
 	* "GenFill-Semi-Auto-Left-to-Right-x10" to do up to 10 Generative Fills "free to position" auto created selection. Workaround for a "Generative Expand" at the document quality with Firefly Image 1 model (limited to 1024x1024px generation).
 	* "GenFill-Manual-Selection-Left-to-Right-x10" to do up to 10 Generative Fills from your own acutal selection. Workaround for a "Generative Expand" at the document quality with Firefly Image 1 model (limited to 1024x1024px generation).
+* **Harmonize-Enhancement.atn**
+ 	* The main Action is "Smart-SO-2" and will convert your "no-layer" image to a Smart Object containing 2 Layer Comps: one showing the original image, and the other one containing the Low Frequency details of this image, so that you'll be able to pick it in "Linear Light" blending mode to enhance the "Harmonized Layer".
+* * **Frequency-Separation.atn**
+ 	* Classical 8bit Frequency Separation Actions: The Auto one is detecting if your file contains Layers or not, and pick between the 2 other Actions.
 
 
 --	
