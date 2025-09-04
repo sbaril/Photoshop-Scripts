@@ -93,3 +93,5 @@ Enjoy :)
 **Disclaimer:** I'm not a developer so all the Scripts are generated via Photoshop **Actions** converted via the **x-tools** (ActionFileToJavascript.jsx):
 
 http://ps-scripts.sourceforge.net/xtools.html
+
+or coded using AI tools like ChatGPT, Claude.ai and more.
