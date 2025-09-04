@@ -89,6 +89,7 @@ It allows you to experiment Smart Object Stack Modes more quickly than using the
 
 Enjoy :)
 
+--	
 
 **Disclaimer:** I'm not a developer so all the Scripts are generated via Photoshop **Actions** converted via the **x-tools** (ActionFileToJavascript.jsx):
 
