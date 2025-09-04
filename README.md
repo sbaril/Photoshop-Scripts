@@ -80,9 +80,9 @@ It allows you to experiment Smart Object Stack Modes more quickly than using the
 	* "GenFill-Manual-Selection-Left-to-Right-x10" to do up to 10 Generative Fills from your own acutal selection. Workaround for a "Generative Expand" at the document quality with Firefly Image 1 model (limited to 1024x1024px generation).
 * **Harmonize-Enhancement.atn**
  	* The main Action is "Smart-SO-2" and will convert your "no-layer" image to a Smart Object containing 2 Layer Comps: one showing the original image, and the other one containing the Low Frequency details of this image, so that you'll be able to pick it in "Linear Light" blending mode to enhance the "Harmonized Layer".
-* * **Frequency-Separation.atn**
+* **Frequency-Separation.atn**
  	* Classical 8bit Frequency Separation Actions: The Auto one is detecting if your file contains Layers or not, and pick between the 2 other Actions.
-* * **Generative-Upscale-Bypass-4096px-Limit.atn**
+* **Generative-Upscale-Bypass-4096px-Limit.atn**
  	* Set of Actions to bypass the limit of 4096 pixels of the Generative Upscale feature of Photoshop 2025 Public Beta.
 
 --	
